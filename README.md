@@ -7,13 +7,23 @@ I made some icons for my Mac.
   <img src="Brave.iconset/icon_128x128@2x.png" width="100">
   <img src="Mac.iconset/icon_128x128@2x.png" width="100">
   <img src="kitty.app.iconset/icon_128x128@2x.png" width="100">
-  <img src="Ghostty.iconset/icon_128x128@2x.png" width="100">
-  <img src="Ghostty2.iconset/icon_128x128@2x.png" width="100">
-  <img src="MacVim.iconset/icon_128x128@2x.png" width="100">
+</p>
+<p float="left">
+  <img src="Floating.iconset/icon_128x128@2x.png" width="100">
+  <img src="Floating2.iconset/icon_128x128@2x.png" width="100">
+  <img src="Floating3.iconset/icon_128x128@2x.png" width="100">
+  <img src="Ghost.iconset/icon_128x128@2x.png" width="100">
+</p>
+<p float="left">
+  <img src="V.iconset/icon_128x128@2x.png" width="100">
   <img src="N.iconset/icon_128x128@2x.png" width="100">
 </p>
+<p float="left">
+  <img src="Mac2.iconset/icon_128x128@2x.png" width="100">
+  <img src="Ghost2.iconset/icon_128x128@2x.png" width="100">
+</p>
 
-FWIW, I use these for Brave Browser, Alacritty Terminal, Kitty Terminal, Ghostty Terminal, MacVim, and Neovide.
+FWIW, I use these for Brave Browser, Alacritty Terminal, Kitty Terminal, Ghostty Terminal, MacVim, and Neovim.
 
 Installation
 ------------
